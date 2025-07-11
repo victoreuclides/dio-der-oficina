@@ -109,4 +109,8 @@ Ref: Mecanico.especialidade_id - Especialidade.id
 
 Ainda planejo revisitar essa atividade mais para a frente para conferir no que melhorei e o quanto me aprofundei em conhecimento e experiência até lá. Dá para aprimorar bastante esse projeto ainda (como adicionar uma tabela _"Estoque"_ para _"Peca"_, por exemplo). 
 
-No mais, é isso! E sugestões são bem-vindas. Até mais 👋
+No mais, é isso, e sugestões são bem-vindas! 
+
+**LinkedIn:** [Victor Euclides](https://www.linkedin.com/in/victor-euclides/) 💻
+
+Até mais 👋
