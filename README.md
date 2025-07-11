@@ -2,7 +2,7 @@
 
 ### Dando continuidade aos estudos do **Bootcamp Randstad - Análise de Dados (2025)**, da DIO, concluí mais esse projeto para praticar os conceitos de modelagem de dados que vi nas aulas ✅ 
 
-Assim como no projeto anterior (veja o repo [dio-der-ecommerce](https://github.com/victoreuclides/dio-der-ecommerce)), eu fiz o _DER_ na plataforma [_dbdiagram.com_](https://dbdiagram.io/home). Gosto bastante de lá pela praticidade e liberdade em criar, refazer e testar. 
+Assim como no projeto anterior (veja o repo [dio-der-ecommerce](https://github.com/victoreuclides/dio-der-ecommerce)), eu fiz o _DER_ na plataforma [_dbdiagram.io_](https://dbdiagram.io/home). Gosto bastante de lá pela praticidade e liberdade em criar, refazer e testar. 
 
 Aqui embaixo segue o código que digitei para produção do diagrama. Se quiser ver o modelo pronto, ele também está na sessão de arquivos desse repo. 
 
